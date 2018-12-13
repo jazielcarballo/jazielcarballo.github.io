@@ -34,3 +34,5 @@ disqus:
 
 # Miscellaneous 
 favicon:
+
+theme: jekyll-theme-minimal
