@@ -1,8 +1,18 @@
-## Jaziel Carballo
+# Jaziel Carballo
 
-You can use the [editor on GitHub](https://github.com/jazielcarballo/jazielcarballo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome
+Hi, I'm an Engineer in Computer Systems. I work as a software project coordinator in the government and I am also a university professor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Professional History
+
+- 2014 - present: Coordinator of software development projects. Secretariat for Research, Innovation and Higher Education - Government
+
+
+## Academic History
+- 2016 - present: Programming teacher, Universidad Tecnológica Metropolitana, Merida, Mexico. 
+- 2014 - 2018: Master's degree in engineering , Instituto Tecnológico de Mérida, Mexico.
+- 2016 - 2017: Specialization in teaching, Universidad Autónoma de Yucatán, Merida, Mexico.
+- 2007 - 2011: BSc, Instituto Tecnológico de Mérida, Mexico.
 
 ### Markdown
 
