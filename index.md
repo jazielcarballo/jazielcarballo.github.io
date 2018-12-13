@@ -12,9 +12,13 @@ Hi, I'm an Engineer in Computer Systems. I work as a software project coordinato
 - 2016 - present: Programming teacher, Universidad Tecnológica Metropolitana, Merida, Mexico. 
 - 2014 - 2018: Master's degree in engineering , Instituto Tecnológico de Mérida, Mexico.
 - 2016 - 2017: Specialization in teaching, Universidad Autónoma de Yucatán, Merida, Mexico.
-- 2007 - 2011: BSc, Instituto Tecnológico de Mérida, Mexico.
+- 2005 - 2010: Computer Systems engineering, Instituto Tecnológico de Mérida, Mexico.
 
-### Markdown
+## Research
+
+## Teaching
+
+## Stuff
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
