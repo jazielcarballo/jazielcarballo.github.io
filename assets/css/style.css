@@ -1,11 +1,15 @@
 
-
+:root {
+  --background-color: #121212;
+  --text-color: #e0e0e0;
+  --accent-color: #64b5f6;
+}
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 2rem;
-  background-color: #fff;
-  color: #333;
+  background-color: var(--background-color);
+  color: var(--text-color);
   line-height: 1.6;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -13,7 +17,7 @@ body {
 h1 {
   font-size: 1.8rem;
   margin-top: 2rem;
-
+  color: var(--accent-color);
   transition: color 0.3s ease;
 }
 
@@ -28,6 +32,7 @@ nav ul {
 
 nav a {
   text-decoration: none;
+  color: var(--accent-color);
   transition: color 0.3s ease;
 }
 
@@ -60,4 +65,14 @@ img.profile-photo {
 @keyframes slideIn {
   from { transform: translateY(20px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
+}
+
+
+nav.sticky-nav {
+  position: sticky;
+  top: 0;
+  background-color: #121212;
+  padding: 1rem 0;
+  z-index: 1000;
+  border-bottom: 1px solid #2c2c2c;
 }
