@@ -29,7 +29,7 @@ title: Jaziel Carballo
 <section id="education">
   <h1>Education</h1>
   <ul>
-    <li>Ph.D. in Geospatial Information Sciences – Currently enrolled (2024–).</li>
+    <li>Ph.D. in Geospatial Information Sciences – Currently enrolled (2024–) at Research Center for Geospatial Information Science <a href="https://www.centrogeo.org.mx/">CentroGeo</a>.</li>
     <li>M.Sc. in Engineering – Instituto Tecnológico de Mérida (2018).</li>
     <li>Specialization in Teaching – Universidad Autónoma de Yucatán (2015).</li>
     <li>B.Sc. in Computer Systems Engineering – Instituto Tecnológico de Mérida (2011).</li>
