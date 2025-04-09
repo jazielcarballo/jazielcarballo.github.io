@@ -71,7 +71,7 @@ img.profile-photo {
 nav.sticky-nav {
   position: sticky;
   top: 0;
-  background-color: #121212;
+  background-color: #ffffff;
   padding: 1rem 0;
   z-index: 1000;
   border-bottom: 1px solid #2c2c2c;
