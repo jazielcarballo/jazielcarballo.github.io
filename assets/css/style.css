@@ -1,28 +1,68 @@
+
+:root {
+  --background-color: #121212;
+  --text-color: #e0e0e0;
+  --accent-color: #64b5f6;
+}
+
 body {
-  font-family: sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 2rem;
-  background-color: #fff;
-  color: #333;
+  background-color: var(--background-color);
+  color: var(--text-color);
   line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1 {
   font-size: 1.8rem;
   margin-top: 2rem;
+  color: var(--accent-color);
+  transition: color 0.3s ease;
 }
 
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
   list-style: none;
   padding: 0;
+  margin-bottom: 2rem;
 }
 
 nav a {
   text-decoration: none;
-  color: #007acc;
+  color: var(--accent-color);
+  transition: color 0.3s ease;
 }
 
 nav a:hover {
   text-decoration: underline;
+}
+
+main {
+  animation: fadeIn 1s ease-in-out;
+}
+
+section {
+  margin-bottom: 3rem;
+  animation: slideIn 0.8s ease;
+}
+
+img.profile-photo {
+  max-width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1.5rem;
+  box-shadow: 0 0 10px rgba(255,255,255,0.1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
 }
