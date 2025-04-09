@@ -3,7 +3,7 @@ layout: default
 title: Jaziel Carballo
 ---
 
-<img src="/assets/img/profile.jpg" alt="Profile Photo" class="profile-photo">
+<img src="/assets/img/perfil.jpeg" alt="Profile Photo" class="profile-photo">
 
 <section id="about-me">
   <h1>About Me</h1>
