@@ -1,41 +1,36 @@
 ---
 layout: default
-title: Inicio
+title: Home
 ---
 
----
-layout: default
-title: Inicio
----
-
-<section id="sobre-mi">
-  <h1>Sobre mí</h1>
-  <p>Soy ingeniero con más de 13 años de experiencia en tecnología y comunicación social. He trabajado tanto en el sector público como privado, desarrollando estrategias digitales centradas en SEO, SEM y sitios web optimizados. Tengo experiencia como docente universitario en el área de tecnologías de la información y actualmente estoy profundizando en inteligencia artificial, especialmente en aplicaciones de procesamiento de lenguaje natural para la lengua maya yucateca.</p>
+<section id="about-me">
+  <h1>About Me</h1>
+  <p>I’m an engineer with over 13 years of experience in technology and digital communication. I’ve worked in both public and private sectors, leading digital strategies focused on SEO, SEM, and optimized websites. I also have university-level teaching experience in Information Technology and I'm currently deepening my knowledge in Artificial Intelligence, especially in Natural Language Processing for the Yucatec Maya language.</p>
 </section>
 
-<section id="proyectos">
-  <h1>Proyectos</h1>
+<section id="projects">
+  <h1>Projects</h1>
   <ul>
-    <li><a href="https://mochilerosenyucatan.com">Mochileros en Yucatán</a> – Sitio enfocado en turismo local con enfoque SEO y generación de contenido inteligente.</li>
-    <li><a href="https://aractuarios.com">AR Actuarios</a> – Consultoría actuarial con desarrollo web personalizado y herramientas estadísticas.</li>
-    <li>Chatbot turístico IA – Desarrollo de prototipo con enfoque RAG (Retrieval-Augmented Generation) para ofrecer atención automatizada personalizada en sitios turísticos.</li>
-    <li>Modelo de traducción maya – Investigación en curso para crear un modelo de PLN que traduzca entre español y lengua maya yucateca.</li>
+    <li><a href="https://mochilerosenyucatan.com">Mochileros en Yucatán</a> – A tourism website focused on local travel, SEO, and smart content generation.</li>
+    <li><a href="https://aractuarios.com">AR Actuarios</a> – Actuarial consulting with custom web development and statistical tools.</li>
+    <li>AI Travel Chatbot – Prototype using RAG (Retrieval-Augmented Generation) to provide automated and personalized support for tourism businesses.</li>
+    <li>Maya Translation Model – Ongoing research project to develop an NLP model for Spanish–Yucatec Maya translation.</li>
   </ul>
 </section>
 
-<section id="experiencia">
-  <h1>Experiencia</h1>
-  <p>He sido responsable de sitios web, redes sociales y estrategia digital en una dependencia gubernamental de Yucatán durante más de una década. También colaboro con empresas privadas en soluciones de marketing digital y desarrollo web. Actualmente trabajo de forma independiente ofreciendo consultoría y soluciones de inteligencia artificial aplicadas.</p>
+<section id="experience">
+  <h1>Experience</h1>
+  <p>I was responsible for websites, social media, and digital strategy for a government agency in Yucatán for over a decade. I also collaborate with private companies on marketing and web development. Currently, I offer freelance consulting and AI-driven digital solutions.</p>
 </section>
 
-<section id="estudios">
-  <h1>Estudios</h1>
-  <p>Ingeniero con formación en tecnologías de la información y experiencia docente universitaria. En proceso de especialización en inteligencia artificial, procesamiento de lenguaje natural y modelado estadístico con R y Python.</p>
+<section id="education">
+  <h1>Education</h1>
+  <p>Engineer trained in Information Technology with experience in higher education teaching. Currently specializing in Artificial Intelligence, Natural Language Processing, and statistical modeling using R and Python.</p>
 </section>
 
-<section id="contacto">
-  <h1>Contacto</h1>
-  <p>Email: contacto@mochilerosenyucatan.com</p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/tuusuario">linkedin.com/in/tuusuario</a></p>
-  <p>GitHub: <a href="https://github.com/tuusuario">github.com/tuusuario</a></p>
+<section id="contact">
+  <h1>Contact</h1>
+  <p>Email: jaziel.carballo@gmail.com</p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/jazielcarballo">linkedin.com/in/jazielcarballo</a></p>
+  <p>GitHub: <a href="https://github.com/jazielcarballo">github.com/jazielcarballo</a></p>
 </section>
