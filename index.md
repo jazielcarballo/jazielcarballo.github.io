@@ -30,7 +30,7 @@ title: Home
 
 <section id="contact">
   <h1>Contact</h1>
-  <p>Email: contacto@mochilerosenyucatan.com</p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/tuusuario">linkedin.com/in/tuusuario</a></p>
-  <p>GitHub: <a href="https://github.com/tuusuario">github.com/tuusuario</a></p>
+  <p>Email: jaziel.carballo@gmail.com</p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/jazielcarballo">linkedin.com/in/jazielcarballo</a></p>
+  <p>GitHub: <a href="https://github.com/jazielcarballo">github.com/jazielcarballo</a></p>
 </section>
