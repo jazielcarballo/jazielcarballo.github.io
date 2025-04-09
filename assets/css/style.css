@@ -1,8 +1,10 @@
+
 :root {
   --background-color: #ffffff;
   --text-color: #1a1a1a;
   --accent-color: #007acc;
 }
+
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 2rem;
