@@ -14,9 +14,8 @@ title: Jaziel Carballo
   <h1>Projects</h1>
   <ul>
     <li><a href="https://mochilerosenyucatan.com">Mochileros en Yucatán</a> – Co-founder of this tourism platform reaching 70,000 monthly visits from over 70 countries. Managed SEO, content creation, and social media campaigns.</li>
-    <li>AI Travel Chatbot – Prototyping an RAG-based (Retrieval-Augmented Generation) chatbot for personalized travel experiences.</li>
     <li>Yucatec Maya Translation – NLP research for building a language model to preserve and translate Yucatec Maya.</li>
-    <li>Scientific Dissemination – Founder/editor of the SIIDETEY Scientific Journal and institutional communications leader.</li>
+    <li>Scientific Dissemination – Editor of the SIIDETEY Scientific Journal and institutional communications leader.</li>
   </ul>
 </section>
 
@@ -73,7 +72,7 @@ title: Jaziel Carballo
   <h1>Contact</h1>
   <p>Email: <a href="mailto:jaziel.carballo@gmail.com">jaziel.carballo@gmail.com</a></p>
   <p>Phone: +52 999 158 8558</p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a></p>
-  <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/jazielcarballo">linkedin.com/in/jazielcarballo</a></p>
+  <p>GitHub: <a href="https://github.com/jazielcarballo">github.com/jazielcarballo</a></p>
 </section>
 
