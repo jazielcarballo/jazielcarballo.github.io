@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background-color: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
