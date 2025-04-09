@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jaziel Carballo
 ---
 
 <img src="/assets/img/profile.jpg" alt="Profile Photo" class="profile-photo">
