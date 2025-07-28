@@ -47,6 +47,7 @@ If you are looking for a professional with experience in digital marketing and d
 <section id="certifications">
   <h1>Courses & Certifications</h1>
   <ul>
+    <li>Insignias <a href="https://www.cloudskillsboost.google/public_profiles/27d50d3c-4d10-4036-9ea3-0c0efc179bd0">Google Cloud</a>
     <li>Google Ads & Digital Marketing (IAB Spain, 2019)</li>
     <li>Scientific Journalism (UNAM–CONACYT, 2015)</li>
     <li>Virtual Learning Environments (Virtual Educa, Argentina, 2016)</li>
