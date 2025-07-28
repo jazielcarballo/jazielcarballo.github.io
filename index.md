@@ -7,7 +7,15 @@ title: Jaziel Carballo
 
 <section id="about-me">
   <h1>About Me</h1>
-  <p>I am Jaziel A. Carballo Tadeo, an engineer and university professor with extensive experience in technology, public communication, and education. I specialize in SEO, SEM, and web development, and I am currently a Ph.D. candidate in Geospatial Information Sciences. My academic and professional trajectory spans government agencies, higher education, and entrepreneurship, with a growing focus on artificial intelligence and natural language processing for Yucatec Maya.</p>
+  <p>Engineer specialized in SEO, SEM, and Web Development, with over 10 years of experience helping companies and freelancers optimize their online presence, generate quality traffic, and increase conversions.
+
+In my most recent position, I led teams in social communication, digital marketing, graphic design, and information technologies in the public sector, enhancing the visibility of the Ministry of research, innovation and higher education, and most importantly, promoting the dissemination of the benefits and programs offered to citizens.
+
+I have also been teaching at the higher education level at the Universidad Tecnológica Metropolitana for 7 years, in the Information and Communication Technologies Division.
+
+Currently, I am pursuing a Ph.D. in Geospatial Information Sciences at CentroGeo, focusing on research in Natural Language Processing, a branch of Artificial Intelligence.
+
+If you are looking for a professional with experience in digital marketing and data-driven strategies, feel free to contact me. I am open to new opportunities and always interested in collaborating on innovative projects..</p>
 </section>
 
 <section id="projects">
